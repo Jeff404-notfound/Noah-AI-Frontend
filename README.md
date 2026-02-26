@@ -67,7 +67,7 @@ noah-ai-frontend/
 ---
 
 ## 🆘 Crisis Support
-Noah always shows the **988 Suicide & Crisis Lifeline** for users in distress.
+Noah always shows the **14416 Suicide & Crisis Lifeline** for users in distress.
 Noah is an AI companion — not a replacement for professional therapy.
 
 ---
